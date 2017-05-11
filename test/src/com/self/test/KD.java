@@ -1,5 +1,9 @@
 package com.self.test;
-
+/**
+ * 递归算法案例
+ * @author zhiyangchen
+ *
+ */
 public class KD {
   private int money;
   private int pg;
