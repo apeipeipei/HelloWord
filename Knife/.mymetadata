@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Knife"
+  id="myeclipse.1495280922200"
+  context-root="/Spring1"
+  j2ee-spec="5.0"
+  archive="Knife.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
